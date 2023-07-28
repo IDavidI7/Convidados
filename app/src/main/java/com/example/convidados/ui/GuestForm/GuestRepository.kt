@@ -2,7 +2,6 @@ package com.example.convidados.ui.GuestForm
 
 import android.content.ContentValues
 import android.content.Context
-import android.content.LocusId
 import com.example.convidados.Constants.DataBaseConstants
 import java.lang.Exception
 
